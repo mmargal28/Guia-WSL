@@ -5,7 +5,7 @@ Guia de instalación de Windows Subsystem Linux
 - `Manuel Martín Galve` (https://github.com/mmargal28)
 ## Indice
 1. [¿Que es WSL?](/Documentos/introduccion.md)
-2. [Comandos utiles de WSL para Powershell](/Documentos/Comandos.md)
+2. [Comandos utiles de WSL para Powershell](/Documentos/comandos.md)
 3. [Instalación](/Documentos/instalacion.md)
 4. [Webgrafía](/Documentos/web.md)
 ### Licencia
