@@ -7,7 +7,8 @@ Guia de instalación de Windows Subsystem Linux
 ## Indice
 1. [¿Que es WSL?](/Documentos/introduccion.md)
 2. [Comandos utiles de WSL para Powershell](/Documentos/comandos.md)
-3. [Instalación](/Documentos/instalacion.md)
+3. [Procesos de WSL](/Documentos/procesos.md)
+4. [Instalación](/Documentos/instalacion.md)
 ### Referencias
 [Documentación de WSL en Microsoft Learn](https://learn.microsoft.com/es-es/windows/wsl/)
 ### Licencia
